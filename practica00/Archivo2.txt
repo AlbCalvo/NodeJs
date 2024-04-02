@@ -1,0 +1,4 @@
+Archivo 2: Primera línea.
+Archivo 2: Segunda línea.
+Archivo 2: Tercera línea.
+Archivo 2: Cuarta línea.
