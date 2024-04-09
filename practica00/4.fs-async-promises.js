@@ -1,3 +1,5 @@
+// Se exe lo k hay tras el .then en diferentes hilos.
+
 const fs = require('node:fs/promises')
 
 console.log('Lectura del primer archivo:')

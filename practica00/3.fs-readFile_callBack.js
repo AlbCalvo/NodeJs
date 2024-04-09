@@ -1,3 +1,5 @@
+// (err, text) Callback se van sustituyendo por promises.
+
 const fs = require('node:fs')
 console.log('Lectura del primer archivo:')
 fs.readFile('./archivo.txt', 'utf-8', (err, text) => {
